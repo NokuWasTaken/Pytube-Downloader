@@ -1,5 +1,5 @@
 # Pytube-Downloader
-simple Youtube Dowloader usong Python 3.9 and Pytube
+simple Youtube Dowloader using Python 3.9 and Pytube
 
 **Make shure you have Python and Pytube installed**
 
